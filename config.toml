@@ -1,0 +1,4 @@
+baseURL = "https://hackberry.xyz/"
+languageCode = "en-us"
+title = "Hackberry"
+theme = "book"
