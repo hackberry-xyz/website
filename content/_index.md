@@ -27,6 +27,8 @@ guidance and help.
 
 A python framework for writing automation scripts during penetration testing.
 
+[PyPI](https://pypi.org/project/reconframe/) | [GitHub](https://github.com/hackberry-xyz/reconframe) | [Documentation](https://reconframe.readthedocs.io)
+
 <--->
 
 ### Ashes
