@@ -37,11 +37,6 @@ A distributed ledger of cracked hashes.
 {{< /columns >}}
 
 
-## Get Help
+## Joining Hackberry
 
-We maintain a mailing list which you can subscribe by sending an email at [hackberry+subscribe@googlegroups.com](mailto:hackberry+subscribe@googlegroups.com).
-
-## Contributing
-
-You can help us by writing code, helping people in the mailing list or simply spreading the word about us.
-
+Hackberry is more of a label underwhich people are expected to share their knowledge and resources. Presently, Hackberry is being run by [0xcrypto](https://vi.hackberry.xyz) on his own. There are some collaborations but still, Hackberry is not in a position to maintain a group. If you are interested to join or collaborate, drop us (me) a message on [twitter](https://twitter.com/0xcrypto). Contributions are always invited and appreciated on [Open Source Projects](https://github.com/hackberry-xyz).
