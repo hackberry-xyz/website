@@ -25,12 +25,14 @@ Hackberry aims to develop effective reconnaissance techniques which compliments 
 
 ### ```reconframe```
 
-A python framework for writing automation scripts during penetration testing.
+A python framework for performing small scale to large scale reconnaissance by leveraging the power of the Python Programming Language.
 
 [PyPI](https://pypi.org/project/reconframe/) | [GitHub](https://github.com/hackberry-xyz/reconframe) | [Documentation](https://reconframe.readthedocs.io)
 
-
-
 ## Joining Hackberry
 
-Hackberry is more of a label underwhich people are expected to share their knowledge and resources. Presently, Hackberry is being run by [0xcrypto](https://vi.hackberry.xyz) on his own. There are some collaborations but still, Hackberry is a one man army. If you are interested to join or collaborate, drop us (me) a message on [twitter](https://twitter.com/0xcrypto). Contributions on [Open Source Projects](https://github.com/hackberry-xyz) are always appreciated.
+Hackberry is more of a label underwhich people are expected to share their knowledge and resources. If you are interested to join or collaborate, drop us a message on [twitter](https://twitter.com/hackberry-xyz). Contributions on [Open Source Projects](https://github.com/hackberry-xyz) are always appreciated.
+
+## Security
+
+We invite security researchers to test our projects and websites on our bug bounty program hosted on [Open Bug Bounty](https://www.openbugbounty.org/bugbounty/hackberry_xyz/). We are thankful to the hackers who [pwned us](/pwn4ge.txt) before we got pwned by malicious hackers.
