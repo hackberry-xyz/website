@@ -21,13 +21,21 @@ Hackberry aims to develop effective reconnaissance techniques which compliments 
 
 {{< /columns >}}
 
-## Our Projects
+## Projects supported by Hackberry
+
+The following tools are being supported by Hackberry:
 
 ### ```reconframe```
 
 A python framework for performing small scale to large scale reconnaissance by leveraging the power of the Python Programming Language.
 
-[PyPI](https://pypi.org/project/reconframe/) | [GitHub](https://github.com/hackberry-xyz/reconframe) | [Documentation](https://reconframe.readthedocs.io)
+[Author: @0xcrypto](https://twitter.com/0xcrypto) | [PyPI](https://pypi.org/project/reconframe/) | [Source Code](https://github.com/hackberry-xyz/reconframe) | [Documentation](https://reconframe.readthedocs.io)
+
+### flumberbuckets
+
+Flumberbuckets is yet another S3 bucket enumeration tool with a well formatted output.
+
+[Author: @fellchase](https://twitter.com/fellchase) | [Source Code](https://github.com/fellchase/flumberboozle) | [Documentation](https://fellchase.blogspot.com/2019/12/releasing-flumberbuckets-s3-bucket-enumeration-tool.html)
 
 ## Joining Hackberry
 
